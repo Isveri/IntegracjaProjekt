@@ -27,7 +27,6 @@ import java.util.List;
 import java.util.Scanner;
 
 
-
 @Component
 @RequiredArgsConstructor
 public class BootLoader implements CommandLineRunner {
@@ -62,21 +61,6 @@ public class BootLoader implements CommandLineRunner {
             throw new RuntimeException(e);
         }
 
-
-//        try {
-//            file = ResourceUtils.getFile("classpath:hunted.csv");
-//        } catch (FileNotFoundException e) {
-//            throw new RuntimeException(e);
-//        }
-//
-//        try (Scanner scanner = new Scanner(file)) {
-//            while (scanner.hasNextLine()) {
-//                regions.add(getRecordFromLine(scanner.nextLine()));
-//            }
-//        } catch (FileNotFoundException e) {
-//            throw new RuntimeException(e);
-//        }
-
         try {
             file = ResourceUtils.getFile("classpath:hunted.xml");
         } catch (FileNotFoundException e) {
@@ -89,10 +73,7 @@ public class BootLoader implements CommandLineRunner {
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 
         try {
-
             dbf.setFeature(XMLConstants.FEATURE_SECURE_PROCESSING, true);
-
-
             DocumentBuilder db = dbf.newDocumentBuilder();
 
             Document doc = db.parse(file);
@@ -113,7 +94,7 @@ public class BootLoader implements CommandLineRunner {
                     regions.add(tmp);
                 }
             }
-        }catch (ParserConfigurationException | SAXException | IOException e) {
+        } catch (ParserConfigurationException | SAXException | IOException e) {
             e.printStackTrace();
         }
 
@@ -122,6 +103,7 @@ public class BootLoader implements CommandLineRunner {
 
     /**
      * Split record in line
+     *
      * @param line
      * @return
      */
@@ -180,7 +162,6 @@ public class BootLoader implements CommandLineRunner {
                 regionRepository.save(region1);
                 licznik = 0;
                 suma = 0;
-
             } else {
                 licznik++;
                 suma += Integer.parseInt(li.get(1));

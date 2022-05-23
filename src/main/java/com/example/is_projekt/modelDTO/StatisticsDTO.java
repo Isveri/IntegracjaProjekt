@@ -9,5 +9,9 @@ import lombok.*;
 @Getter
 public class StatisticsDTO {
     private Long id;
-
+    private Integer weight;
+    private Integer year;
+    private Integer price;
+    private String type;
+    private RegionDTO regionDTO;
 }

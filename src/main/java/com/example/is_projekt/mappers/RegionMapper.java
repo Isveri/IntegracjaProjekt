@@ -4,5 +4,5 @@ import org.mapstruct.Builder;
 import org.mapstruct.Mapper;
 
 @Mapper(builder = @Builder(disableBuilder = true))
-public abstract class StatsMapper {
+public abstract class RegionMapper {
 }
