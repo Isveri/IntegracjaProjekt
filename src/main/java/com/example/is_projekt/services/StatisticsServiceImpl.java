@@ -6,6 +6,11 @@ import com.example.is_projekt.modelDTO.StatisticsDTO;
 import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
 import lombok.RequiredArgsConstructor;
+import org.springframework.core.io.InputStreamResource;
+import org.springframework.core.io.Resource;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -18,9 +23,7 @@ import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+import java.io.*;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -36,6 +39,9 @@ public class StatisticsServiceImpl implements StatisticsService {
         return null;
     }
 
+    /**
+     * Wyświetlenie wszystkich danych z kolumny statistics
+     */
     @Override
     public List<StatisticsDTO> getAllStats() {
         return statisticsRepository.findAll()
@@ -44,6 +50,10 @@ public class StatisticsServiceImpl implements StatisticsService {
                 .collect(Collectors.toList());
     }
 
+    /**
+     * Tworzenie schematu dokumentu XML do zapisania w pliku
+     * na podstawie danych zawartych w bazie.
+     */
     @Override
     public void saveToXML() throws ParserConfigurationException, TransformerException{
         List<StatisticsDTO> statsToSave = getAllStats();
@@ -92,6 +102,10 @@ public class StatisticsServiceImpl implements StatisticsService {
         }
 
     }
+
+    /**
+     * Funkcja do zapisywania fragmentów XML'a
+     */
     private static void writeXml(Document doc,
                                  OutputStream output)
             throws TransformerException {
@@ -103,6 +117,29 @@ public class StatisticsServiceImpl implements StatisticsService {
 
         transformer.transform(source, result);
 
+    }
+
+    @Override
+    public void saveToJSON() {
+
+    }
+
+
+
+    /**
+     * Funkcja do przesyłania plików w odpowiedzi REST
+     */
+    public ResponseEntity<Resource> getResourceResponseEntity(File file) throws FileNotFoundException {
+        InputStreamResource resource = new InputStreamResource(new FileInputStream(file));
+        HttpHeaders headers = new HttpHeaders();
+        headers.add("Cache-Control", "no-cache, no-store, must-revalidate");
+        headers.add("Pragma", "no-cache");
+        headers.add("Expires", "0");
+        return ResponseEntity.ok()
+                .headers(headers)
+                .contentLength(file.length())
+                .contentType(MediaType.APPLICATION_OCTET_STREAM)
+                .body(resource);
     }
 }
 

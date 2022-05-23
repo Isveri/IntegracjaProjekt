@@ -28,20 +28,40 @@ public class StatisticsController  {
     private final StatisticsRepository statisticsRepository;
     private final StatisticsService statisticsService;
 
+    /**
+     * Endpoint do pobierania wszystikch danych
+     */
     @GetMapping("/all")
     private ResponseEntity<List<StatisticsDTO>> getAllStats(){
         return ResponseEntity.ok(statisticsService.getAllStats());
     }
 
-    @GetMapping("saveToXML")
-    public ResponseEntity<Void> saveToXML()throws ParserConfigurationException, TransformerException {
+    /**
+     * Endpoint do pobierania pliku xml
+     */
+    @GetMapping(value = "data.xml" ,produces = MediaType.APPLICATION_OCTET_STREAM_VALUE)
+    public ResponseEntity<Resource> saveToXML()throws ParserConfigurationException, TransformerException,IOException {
+
         statisticsService.saveToXML();
-        return new ResponseEntity<>(HttpStatus.OK);
+
+        File file = null;
+        try {
+            file = ResourceUtils.getFile("classpath:stats.xml");
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+
+        return statisticsService.getResourceResponseEntity(file);
+
     }
 
+    /**
+     * Endpoint do pobierania pliku json
+     */
     @GetMapping(value = "/data.json",produces = MediaType.APPLICATION_OCTET_STREAM_VALUE)
     public ResponseEntity<Resource> downloadJSON() throws IOException {
 
+        statisticsService.saveToJSON();
 
         File file = null;
         try {
@@ -50,15 +70,7 @@ public class StatisticsController  {
             throw new RuntimeException(e);
         }
 
-        InputStreamResource resource = new InputStreamResource(new FileInputStream(file));
-        HttpHeaders headers = new HttpHeaders();
-        headers.add("Cache-Control", "no-cache, no-store, must-revalidate");
-        headers.add("Pragma", "no-cache");
-        headers.add("Expires", "0");
-        return ResponseEntity.ok()
-                .headers(headers)
-                .contentLength(file.length())
-                .contentType(MediaType.APPLICATION_OCTET_STREAM)
-                .body(resource);
+        return statisticsService.getResourceResponseEntity(file);
     }
+
 }
