@@ -11,21 +11,22 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
+@Builder
 public class Region {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull
+//    @NotNull
     private String name;
 
-    @NotNull
+//    @NotNull
     private String type;
 
-    @NotNull
-    private int hunted;
+//    @NotNull
+    private Integer hunted;
 
-    @OneToMany(mappedBy = "region")
+    @OneToMany(mappedBy = "region",cascade = CascadeType.MERGE)
     private List<Statistics> stats;
 }

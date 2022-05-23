@@ -2,10 +2,7 @@ package com.example.is_projekt.model;
 
 
 import com.sun.istack.NotNull;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 import javax.persistence.*;
 
@@ -13,6 +10,7 @@ import javax.persistence.*;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
+@Builder
 @Entity
 public class Statistics {
 
@@ -20,19 +18,19 @@ public class Statistics {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull
-    private Double weight;
+//    @NotNull
+    private Integer weight;
 
-    @NotNull
-    private String year;
+//    @NotNull
+    private Integer year;
 
-    @NotNull
-    private Double price;
+//    @NotNull
+    private Integer price;
 
-    @NotNull
+//    @NotNull
     private String type;
 
-    @ManyToOne(cascade = CascadeType.MERGE)
+    @ManyToOne
     @JoinColumn(name = "region_id")
     private Region region;
 }
