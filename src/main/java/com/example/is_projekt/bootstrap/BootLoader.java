@@ -6,17 +6,26 @@ import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ResourceUtils;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
+
+import javax.xml.XMLConstants;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
+
 
 
 @Component
@@ -33,6 +42,9 @@ public class BootLoader implements CommandLineRunner {
     }
 
     private void getStatsFromCsv() {
+        /**
+         * Read from CSV file
+         */
         List<List<String>> records = new ArrayList<>();
         List<List<String>> regions = new ArrayList<>();
         File file = null;
@@ -51,23 +63,68 @@ public class BootLoader implements CommandLineRunner {
         }
 
 
+//        try {
+//            file = ResourceUtils.getFile("classpath:hunted.csv");
+//        } catch (FileNotFoundException e) {
+//            throw new RuntimeException(e);
+//        }
+//
+//        try (Scanner scanner = new Scanner(file)) {
+//            while (scanner.hasNextLine()) {
+//                regions.add(getRecordFromLine(scanner.nextLine()));
+//            }
+//        } catch (FileNotFoundException e) {
+//            throw new RuntimeException(e);
+//        }
+
         try {
-            file = ResourceUtils.getFile("classpath:hunted.csv");
+            file = ResourceUtils.getFile("classpath:hunted.xml");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
 
-        try (Scanner scanner = new Scanner(file)) {
-            while (scanner.hasNextLine()) {
-                regions.add(getRecordFromLine(scanner.nextLine()));
+        /**
+         * Read from XML file
+         */
+        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+
+        try {
+
+            dbf.setFeature(XMLConstants.FEATURE_SECURE_PROCESSING, true);
+
+
+            DocumentBuilder db = dbf.newDocumentBuilder();
+
+            Document doc = db.parse(file);
+
+            NodeList list = doc.getElementsByTagName("row");
+
+            for (int temp = 0; temp < list.getLength(); temp++) {
+                List<String> tmp = new ArrayList<>();
+                Node node = list.item(temp);
+
+                if (node.getNodeType() == Node.ELEMENT_NODE) {
+                    Element element = (Element) node;
+                    String nazwa = element.getElementsByTagName("Nazwa").item(0).getTextContent();
+                    String ilosc = element.getElementsByTagName("Ilość").item(0).getTextContent();
+
+                    tmp.add(nazwa);
+                    tmp.add(ilosc);
+                    regions.add(tmp);
+                }
             }
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
+        }catch (ParserConfigurationException | SAXException | IOException e) {
+            e.printStackTrace();
         }
 
         addDataToDatabase(records, regions);
     }
 
+    /**
+     * Split record in line
+     * @param line
+     * @return
+     */
     private List<String> getRecordFromLine(String line) {
         List<String> values = new ArrayList<String>();
         try (Scanner rowScanner = new Scanner(line)) {
@@ -80,7 +137,14 @@ public class BootLoader implements CommandLineRunner {
         return values;
     }
 
+
+    //TODO SOAP mozna zrobic na szybko tak zeby przesylać przez niego obszar danego wojewodztwa i tutaj w funkcji ustawiac
+    //TODO np getAreaOfRegion(String nameOfRegion) w ten sposob
     private void addDataToDatabase(List<List<String>> records, List<List<String>> regions) {
+
+        /**
+         * add to database from records array
+         */
         Region region;
         records.remove(0);
         for (List<String> li : records) {
@@ -103,11 +167,14 @@ public class BootLoader implements CommandLineRunner {
         }
 
 
+        /**
+         * Add to database from regions array
+         */
         int licznik = 0;
         int suma = 0;
         for (List<String> li : regions) {
             if (licznik == 12) {
-                suma += Integer.parseInt(li.get(3));
+                suma += Integer.parseInt(li.get(1));
                 Region region1 = regionRepository.findByName(li.get(0)).orElseThrow(null);
                 region1.setHuntedAnimals(suma);
                 regionRepository.save(region1);
@@ -116,7 +183,7 @@ public class BootLoader implements CommandLineRunner {
 
             } else {
                 licznik++;
-                suma += Integer.parseInt(li.get(3));
+                suma += Integer.parseInt(li.get(1));
             }
         }
     }
