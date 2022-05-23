@@ -5,6 +5,8 @@ import com.example.is_projekt.model.Statistics;
 import com.example.is_projekt.modelDTO.StatisticsDTO;
 import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.core.io.Resource;
@@ -12,6 +14,7 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
+import org.springframework.util.ResourceUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
@@ -55,18 +58,18 @@ public class StatisticsServiceImpl implements StatisticsService {
      * na podstawie danych zawartych w bazie.
      */
     @Override
-    public void saveToXML() throws ParserConfigurationException, TransformerException{
+    public void saveToXML() throws ParserConfigurationException, TransformerException {
         List<StatisticsDTO> statsToSave = getAllStats();
         DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
 
-        int licznik =0;
+        int licznik = 0;
         Document doc = docBuilder.newDocument();
         Element rootElement = doc.createElement("root");
         doc.appendChild(rootElement);
-        for(StatisticsDTO stat:statsToSave) {
+        for (StatisticsDTO stat : statsToSave) {
             licznik++;
-            Element row = doc.createElement("row-"+licznik);
+            Element row = doc.createElement("row-" + licznik);
             rootElement.appendChild(row);
 
             Element region = doc.createElement("Region");
@@ -121,9 +124,22 @@ public class StatisticsServiceImpl implements StatisticsService {
 
     @Override
     public void saveToJSON() {
+        List<StatisticsDTO> statsToSave = getAllStats();
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.configure(DeserializationFeature.USE_JAVA_ARRAY_FOR_JSON_ARRAY, true);
+        File file = null;
+        try {
+            file = ResourceUtils.getFile("classpath:data.json");
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+            try {
+                mapper.writeValue(file,statsToSave);
+            }catch(IOException e){
+                e.printStackTrace();
+            }
 
     }
-
 
 
     /**
