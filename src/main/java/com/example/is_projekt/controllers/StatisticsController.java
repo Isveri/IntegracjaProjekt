@@ -65,7 +65,7 @@ public class StatisticsController  {
 
         File file = null;
         try {
-            file = ResourceUtils.getFile("classpath:data.json");
+            file = ResourceUtils.getFile("classpath:stats.json");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
