@@ -34,6 +34,7 @@ public class BootLoader implements CommandLineRunner {
 
     private void getStatsFromCsv() {
         List<List<String>> records = new ArrayList<>();
+        List<List<String>> regions = new ArrayList<>();
         File file = null;
         try {
             file = ResourceUtils.getFile("classpath:stats.csv");
@@ -49,7 +50,22 @@ public class BootLoader implements CommandLineRunner {
             throw new RuntimeException(e);
         }
 
-        addDataToDatabase(records);
+
+        try {
+            file = ResourceUtils.getFile("classpath:hunted.csv");
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+
+        try (Scanner scanner = new Scanner(file)) {
+            while (scanner.hasNextLine()) {
+                regions.add(getRecordFromLine(scanner.nextLine()));
+            }
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+
+        addDataToDatabase(records, regions);
     }
 
     private List<String> getRecordFromLine(String line) {
@@ -64,40 +80,43 @@ public class BootLoader implements CommandLineRunner {
         return values;
     }
 
-    private void addDataToDatabase(List<List<String>> records) {
+    private void addDataToDatabase(List<List<String>> records, List<List<String>> regions) {
         Region region;
         records.remove(0);
         for (List<String> li : records) {
             Statistics statistics = new Statistics();
-            for (int i = 0; i < li.size(); i++) {
-                region = new Region();
-                switch (i) {
-                    case 0:
-                        if (regionRepository.findByName(li.get(i)).isPresent()) {
+            region = new Region();
+            if (regionRepository.findByName(li.get(0)).isPresent()) {
 
-                        }else {
-                            region.setName(li.get(i));
-                            regionRepository.save(region);
-                            statistics.setRegion(region);
-                        }
-                        region = regionRepository.findByName(li.get(i)).orElse(null);
-                        statistics.setRegion(region);
-                        break;
-                    case 1:
-                        statistics.setType(li.get(i));
-                        break;
-                    case 2:
-                        statistics.setYear(Integer.valueOf(li.get(i)));
-                        break;
-                    case 3:
-                        statistics.setWeight(Integer.valueOf(li.get(i)));
-                        break;
-                    case 4:
-                        statistics.setPrice(Integer.valueOf(li.get(i)));
-                        break;
-                }
-                statisticsRepository.save(statistics);
+            } else {
+                region.setName(li.get(0));
+                regionRepository.save(region);
+                statistics.setRegion(region);
+            }
+            region = regionRepository.findByName(li.get(0)).orElse(null);
+            statistics.setRegion(region);
+            statistics.setType(li.get(1));
+            statistics.setYear(Integer.valueOf(li.get(2)));
+            statistics.setWeight(Integer.valueOf(li.get(3)));
+            statistics.setPrice(Integer.valueOf(li.get(4)));
+            statisticsRepository.save(statistics);
+        }
 
+
+        int licznik = 0;
+        int suma = 0;
+        for (List<String> li : regions) {
+            if (licznik == 12) {
+                suma += Integer.parseInt(li.get(3));
+                Region region1 = regionRepository.findByName(li.get(0)).orElseThrow(null);
+                region1.setHuntedAnimals(suma);
+                regionRepository.save(region1);
+                licznik = 0;
+                suma = 0;
+
+            } else {
+                licznik++;
+                suma += Integer.parseInt(li.get(3));
             }
         }
     }

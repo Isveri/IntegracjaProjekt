@@ -22,10 +22,7 @@ public class Region {
     private String name;
 
 //    @NotNull
-    private String type;
-
-//    @NotNull
-    private Integer hunted;
+    private Integer huntedAnimals;
 
     @OneToMany(mappedBy = "region",cascade = CascadeType.MERGE)
     private List<Statistics> stats;
