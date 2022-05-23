@@ -122,11 +122,13 @@ public class StatisticsServiceImpl implements StatisticsService {
 
     }
 
+    /**
+     * Funkcja do zapisywania danych z bazy w pliku JSON. Sprawdzić folder /target/classes/stats.json jesli w glownym folderze plik sie nie zmieni
+     */
     @Override
     public void saveToJSON() {
         List<StatisticsDTO> statsToSave = getAllStats();
         ObjectMapper mapper = new ObjectMapper();
-        mapper.configure(DeserializationFeature.USE_JAVA_ARRAY_FOR_JSON_ARRAY, true);
         File file = null;
         try {
             file = ResourceUtils.getFile("classpath:stats.json");
