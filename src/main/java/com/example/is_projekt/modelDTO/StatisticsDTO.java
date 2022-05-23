@@ -13,5 +13,5 @@ public class StatisticsDTO {
     private Integer year;
     private Integer price;
     private String type;
-    private RegionDTO regionDTO;
+    private RegionDTO region;
 }

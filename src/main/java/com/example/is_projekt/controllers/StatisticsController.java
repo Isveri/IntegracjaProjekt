@@ -8,6 +8,7 @@ import org.apache.commons.io.IOUtils;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -15,22 +16,33 @@ import org.springframework.util.ResourceUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.TransformerException;
 import java.io.*;
 import java.util.List;
 
 @Controller
 @AllArgsConstructor
 @RequestMapping("/api/v1/stats")
-public class StatisticsController {
+public class StatisticsController  {
     private final StatisticsRepository statisticsRepository;
     private final StatisticsService statisticsService;
+
     @GetMapping("/all")
     private ResponseEntity<List<StatisticsDTO>> getAllStats(){
         return ResponseEntity.ok(statisticsService.getAllStats());
     }
 
+    @GetMapping("saveToXML")
+    public ResponseEntity<Void> saveToXML()throws ParserConfigurationException, TransformerException {
+        statisticsService.saveToXML();
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+
     @GetMapping(value = "/data.json",produces = MediaType.APPLICATION_OCTET_STREAM_VALUE)
     public ResponseEntity<Resource> downloadJSON() throws IOException {
+
+
         File file = null;
         try {
             file = ResourceUtils.getFile("classpath:data.json");
