@@ -52,7 +52,6 @@ public class StatisticsController  {
         }
 
         return statisticsService.getResourceResponseEntity(file);
-
     }
 
     /**

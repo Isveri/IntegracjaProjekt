@@ -1,0 +1,6190 @@
+[
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 7154,
+      "Wartosc(tys.zl)": 42753
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 8995,
+      "Wartosc(tys.zl)": 63436
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 9270,
+      "Wartosc(tys.zl)": 80265
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 9913,
+      "Wartosc(tys.zl)": 80715
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 9368,
+      "Wartosc(tys.zl)": 64959
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 10829,
+      "Wartosc(tys.zl)": 81507
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 12689,
+      "Wartosc(tys.zl)": 98192
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 13253,
+      "Wartosc(tys.zl)": 115149
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 12231,
+      "Wartosc(tys.zl)": 102032
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 13173,
+      "Wartosc(tys.zl)": 102449
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 14747,
+      "Wartosc(tys.zl)": 108432
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 12820,
+      "Wartosc(tys.zl)": 65883
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 11338,
+      "Wartosc(tys.zl)": 78780
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 3016,
+      "Wartosc(tys.zl)": 19212
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 3420,
+      "Wartosc(tys.zl)": 26017
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 3824,
+      "Wartosc(tys.zl)": 34370
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 4103,
+      "Wartosc(tys.zl)": 33345
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 4674,
+      "Wartosc(tys.zl)": 30639
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 5024,
+      "Wartosc(tys.zl)": 35733
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 5223,
+      "Wartosc(tys.zl)": 40744
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 5198,
+      "Wartosc(tys.zl)": 45496
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 5554,
+      "Wartosc(tys.zl)": 50854
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 6208,
+      "Wartosc(tys.zl)": 56102
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 6638,
+      "Wartosc(tys.zl)": 54790
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 5971,
+      "Wartosc(tys.zl)": 33223
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 6006,
+      "Wartosc(tys.zl)": 38411
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 1820,
+      "Wartosc(tys.zl)": 16867
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 1909,
+      "Wartosc(tys.zl)": 20959
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 1954,
+      "Wartosc(tys.zl)": 26290
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 2119,
+      "Wartosc(tys.zl)": 29297
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 2189,
+      "Wartosc(tys.zl)": 27252
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 2393,
+      "Wartosc(tys.zl)": 32611
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 2296,
+      "Wartosc(tys.zl)": 33343
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 2464,
+      "Wartosc(tys.zl)": 39154
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 2370,
+      "Wartosc(tys.zl)": 32745
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 2650,
+      "Wartosc(tys.zl)": 33627
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 2494,
+      "Wartosc(tys.zl)": 32686
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 2162,
+      "Wartosc(tys.zl)": 20374
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 2258,
+      "Wartosc(tys.zl)": 29081
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 2301,
+      "Wartosc(tys.zl)": 6539
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 3643,
+      "Wartosc(tys.zl)": 16155
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 3494,
+      "Wartosc(tys.zl)": 19501
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 3662,
+      "Wartosc(tys.zl)": 17785
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 2450,
+      "Wartosc(tys.zl)": 6720
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 3362,
+      "Wartosc(tys.zl)": 12762
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 5096,
+      "Wartosc(tys.zl)": 23504
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 4958,
+      "Wartosc(tys.zl)": 25135
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 4226,
+      "Wartosc(tys.zl)": 17631
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 4179,
+      "Wartosc(tys.zl)": 11263
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 5479,
+      "Wartosc(tys.zl)": 19704
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 4582,
+      "Wartosc(tys.zl)": 11651
+    },
+    {
+      "Nazwa": "POLSKA",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 2967,
+      "Wartosc(tys.zl)": 10546
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 750,
+      "Wartosc(tys.zl)": 4753
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 832,
+      "Wartosc(tys.zl)": 6013
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 992,
+      "Wartosc(tys.zl)": 8932
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 979,
+      "Wartosc(tys.zl)": 8365
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 957,
+      "Wartosc(tys.zl)": 6981
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 1095,
+      "Wartosc(tys.zl)": 8735
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 1264,
+      "Wartosc(tys.zl)": 10150
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 1365,
+      "Wartosc(tys.zl)": 12576
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 1401,
+      "Wartosc(tys.zl)": 11368
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 1295,
+      "Wartosc(tys.zl)": 10311
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 1659,
+      "Wartosc(tys.zl)": 12265
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 1607,
+      "Wartosc(tys.zl)": 8522
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 1424,
+      "Wartosc(tys.zl)": 10801
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 286,
+      "Wartosc(tys.zl)": 1953
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 275,
+      "Wartosc(tys.zl)": 2253
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 353,
+      "Wartosc(tys.zl)": 3398
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 382,
+      "Wartosc(tys.zl)": 3241
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 450,
+      "Wartosc(tys.zl)": 3069
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 473,
+      "Wartosc(tys.zl)": 3564
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 466,
+      "Wartosc(tys.zl)": 3847
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 535,
+      "Wartosc(tys.zl)": 4915
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 504,
+      "Wartosc(tys.zl)": 4875
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 575,
+      "Wartosc(tys.zl)": 5493
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 637,
+      "Wartosc(tys.zl)": 5621
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 711,
+      "Wartosc(tys.zl)": 4095
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 711,
+      "Wartosc(tys.zl)": 5223
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 223,
+      "Wartosc(tys.zl)": 2076
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 207,
+      "Wartosc(tys.zl)": 2206
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 229,
+      "Wartosc(tys.zl)": 3141
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 234,
+      "Wartosc(tys.zl)": 3312
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 256,
+      "Wartosc(tys.zl)": 3191
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 266,
+      "Wartosc(tys.zl)": 3711
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 247,
+      "Wartosc(tys.zl)": 3625
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 285,
+      "Wartosc(tys.zl)": 4655
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 271,
+      "Wartosc(tys.zl)": 3759
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 269,
+      "Wartosc(tys.zl)": 3456
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 285,
+      "Wartosc(tys.zl)": 3789
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 302,
+      "Wartosc(tys.zl)": 2735
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 291,
+      "Wartosc(tys.zl)": 3929
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 243,
+      "Wartosc(tys.zl)": 723
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 352,
+      "Wartosc(tys.zl)": 1553
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 411,
+      "Wartosc(tys.zl)": 2392
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 364,
+      "Wartosc(tys.zl)": 1811
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 251,
+      "Wartosc(tys.zl)": 719
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 354,
+      "Wartosc(tys.zl)": 1439
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 548,
+      "Wartosc(tys.zl)": 2648
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 541,
+      "Wartosc(tys.zl)": 2974
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 620,
+      "Wartosc(tys.zl)": 2678
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 443,
+      "Wartosc(tys.zl)": 1289
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 725,
+      "Wartosc(tys.zl)": 2754
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 583,
+      "Wartosc(tys.zl)": 1638
+    },
+    {
+      "Nazwa": "DOLNOŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 405,
+      "Wartosc(tys.zl)": 1556
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 301,
+      "Wartosc(tys.zl)": 1945
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 409,
+      "Wartosc(tys.zl)": 2914
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 409,
+      "Wartosc(tys.zl)": 3507
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 516,
+      "Wartosc(tys.zl)": 4329
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 475,
+      "Wartosc(tys.zl)": 3399
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 516,
+      "Wartosc(tys.zl)": 4072
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 650,
+      "Wartosc(tys.zl)": 5035
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 682,
+      "Wartosc(tys.zl)": 6078
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 682,
+      "Wartosc(tys.zl)": 5492
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 643,
+      "Wartosc(tys.zl)": 4842
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 711,
+      "Wartosc(tys.zl)": 5145
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 685,
+      "Wartosc(tys.zl)": 3482
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 565,
+      "Wartosc(tys.zl)": 3645
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 149,
+      "Wartosc(tys.zl)": 917
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 196,
+      "Wartosc(tys.zl)": 1436
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 205,
+      "Wartosc(tys.zl)": 1782
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 230,
+      "Wartosc(tys.zl)": 1859
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 238,
+      "Wartosc(tys.zl)": 1495
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 256,
+      "Wartosc(tys.zl)": 1778
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 279,
+      "Wartosc(tys.zl)": 2099
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 299,
+      "Wartosc(tys.zl)": 2639
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 294,
+      "Wartosc(tys.zl)": 2552
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 286,
+      "Wartosc(tys.zl)": 2456
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 295,
+      "Wartosc(tys.zl)": 2338
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 294,
+      "Wartosc(tys.zl)": 1576
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 261,
+      "Wartosc(tys.zl)": 1394
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 838
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 956
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 85,
+      "Wartosc(tys.zl)": 1091
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 128,
+      "Wartosc(tys.zl)": 1744
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 135,
+      "Wartosc(tys.zl)": 1657
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 132,
+      "Wartosc(tys.zl)": 1774
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 136,
+      "Wartosc(tys.zl)": 1899
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 149,
+      "Wartosc(tys.zl)": 2292
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 141,
+      "Wartosc(tys.zl)": 1882
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 148,
+      "Wartosc(tys.zl)": 1792
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 145,
+      "Wartosc(tys.zl)": 1825
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 135,
+      "Wartosc(tys.zl)": 1235
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 137,
+      "Wartosc(tys.zl)": 1665
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 64,
+      "Wartosc(tys.zl)": 157
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 127,
+      "Wartosc(tys.zl)": 522
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 121,
+      "Wartosc(tys.zl)": 628
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 150,
+      "Wartosc(tys.zl)": 649
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 100,
+      "Wartosc(tys.zl)": 241
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 119,
+      "Wartosc(tys.zl)": 466
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 226,
+      "Wartosc(tys.zl)": 978
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 228,
+      "Wartosc(tys.zl)": 1127
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 237,
+      "Wartosc(tys.zl)": 986
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 199,
+      "Wartosc(tys.zl)": 509
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 259,
+      "Wartosc(tys.zl)": 880
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 246,
+      "Wartosc(tys.zl)": 615
+    },
+    {
+      "Nazwa": "KUJAWSKO-POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 154,
+      "Wartosc(tys.zl)": 511
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 105,
+      "Wartosc(tys.zl)": 793
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 193,
+      "Wartosc(tys.zl)": 1653
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 336,
+      "Wartosc(tys.zl)": 3288
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 250,
+      "Wartosc(tys.zl)": 2419
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 179,
+      "Wartosc(tys.zl)": 1427
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 223,
+      "Wartosc(tys.zl)": 1957
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 232,
+      "Wartosc(tys.zl)": 2162
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 286,
+      "Wartosc(tys.zl)": 2924
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 311,
+      "Wartosc(tys.zl)": 2931
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 577,
+      "Wartosc(tys.zl)": 5343
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 431,
+      "Wartosc(tys.zl)": 4053
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 201,
+      "Wartosc(tys.zl)": 1431
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 157,
+      "Wartosc(tys.zl)": 1411
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 31,
+      "Wartosc(tys.zl)": 197
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 54,
+      "Wartosc(tys.zl)": 456
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 90,
+      "Wartosc(tys.zl)": 739
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 65,
+      "Wartosc(tys.zl)": 565
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 47,
+      "Wartosc(tys.zl)": 315
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 58,
+      "Wartosc(tys.zl)": 424
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 67,
+      "Wartosc(tys.zl)": 543
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 107,
+      "Wartosc(tys.zl)": 929
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 120,
+      "Wartosc(tys.zl)": 1166
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 262,
+      "Wartosc(tys.zl)": 2547
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 177,
+      "Wartosc(tys.zl)": 1365
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 102,
+      "Wartosc(tys.zl)": 586
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 377
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 60,
+      "Wartosc(tys.zl)": 559
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 82,
+      "Wartosc(tys.zl)": 948
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 140,
+      "Wartosc(tys.zl)": 1958
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 99,
+      "Wartosc(tys.zl)": 1415
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 77,
+      "Wartosc(tys.zl)": 963
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 89,
+      "Wartosc(tys.zl)": 1237
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 80,
+      "Wartosc(tys.zl)": 1191
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 95,
+      "Wartosc(tys.zl)": 1545
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 90,
+      "Wartosc(tys.zl)": 1290
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 179,
+      "Wartosc(tys.zl)": 2364
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 182,
+      "Wartosc(tys.zl)": 2419
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 78,
+      "Wartosc(tys.zl)": 800
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 76,
+      "Wartosc(tys.zl)": 995
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 14,
+      "Wartosc(tys.zl)": 37
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 247
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 106,
+      "Wartosc(tys.zl)": 591
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 87,
+      "Wartosc(tys.zl)": 438
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 55,
+      "Wartosc(tys.zl)": 149
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 76,
+      "Wartosc(tys.zl)": 296
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 85,
+      "Wartosc(tys.zl)": 428
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 84,
+      "Wartosc(tys.zl)": 448
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 101,
+      "Wartosc(tys.zl)": 475
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 132,
+      "Wartosc(tys.zl)": 390
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 72,
+      "Wartosc(tys.zl)": 266
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 21,
+      "Wartosc(tys.zl)": 44
+    },
+    {
+      "Nazwa": "LUBELSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 12,
+      "Wartosc(tys.zl)": 39
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 564,
+      "Wartosc(tys.zl)": 3271
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 588,
+      "Wartosc(tys.zl)": 4153
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 671,
+      "Wartosc(tys.zl)": 5662
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 871,
+      "Wartosc(tys.zl)": 7057
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 713,
+      "Wartosc(tys.zl)": 4701
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 1025,
+      "Wartosc(tys.zl)": 7547
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 1214,
+      "Wartosc(tys.zl)": 9450
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 1064,
+      "Wartosc(tys.zl)": 9328
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 1200,
+      "Wartosc(tys.zl)": 9388
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 740,
+      "Wartosc(tys.zl)": 5462
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 819,
+      "Wartosc(tys.zl)": 5786
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 734,
+      "Wartosc(tys.zl)": 4171
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 556,
+      "Wartosc(tys.zl)": 5166
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 233,
+      "Wartosc(tys.zl)": 1457
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 224,
+      "Wartosc(tys.zl)": 1717
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 260,
+      "Wartosc(tys.zl)": 2385
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 339,
+      "Wartosc(tys.zl)": 2860
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 337,
+      "Wartosc(tys.zl)": 2260
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 451,
+      "Wartosc(tys.zl)": 3240
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 478,
+      "Wartosc(tys.zl)": 3871
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 378,
+      "Wartosc(tys.zl)": 3449
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 448,
+      "Wartosc(tys.zl)": 4222
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 295,
+      "Wartosc(tys.zl)": 2768
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 323,
+      "Wartosc(tys.zl)": 2842
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 381,
+      "Wartosc(tys.zl)": 2324
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 367,
+      "Wartosc(tys.zl)": 2929
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 135,
+      "Wartosc(tys.zl)": 1263
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 108,
+      "Wartosc(tys.zl)": 1203
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 120,
+      "Wartosc(tys.zl)": 1621
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 161,
+      "Wartosc(tys.zl)": 2231
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 140,
+      "Wartosc(tys.zl)": 1765
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 204,
+      "Wartosc(tys.zl)": 2845
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 189,
+      "Wartosc(tys.zl)": 2817
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 150,
+      "Wartosc(tys.zl)": 2481
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 177,
+      "Wartosc(tys.zl)": 2599
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 112,
+      "Wartosc(tys.zl)": 1428
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 102,
+      "Wartosc(tys.zl)": 1373
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 130,
+      "Wartosc(tys.zl)": 1106
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 137,
+      "Wartosc(tys.zl)": 2069
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 196,
+      "Wartosc(tys.zl)": 550
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 254,
+      "Wartosc(tys.zl)": 1196
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 288,
+      "Wartosc(tys.zl)": 1647
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 373,
+      "Wartosc(tys.zl)": 1965
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 237,
+      "Wartosc(tys.zl)": 675
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 369,
+      "Wartosc(tys.zl)": 1458
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 547,
+      "Wartosc(tys.zl)": 2755
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 489,
+      "Wartosc(tys.zl)": 2816
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 574,
+      "Wartosc(tys.zl)": 2551
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 302,
+      "Wartosc(tys.zl)": 885
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 393,
+      "Wartosc(tys.zl)": 1560
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 222,
+      "Wartosc(tys.zl)": 731
+    },
+    {
+      "Nazwa": "LUBUSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 51,
+      "Wartosc(tys.zl)": 159
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 95,
+      "Wartosc(tys.zl)": 667
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 131,
+      "Wartosc(tys.zl)": 1118
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 121,
+      "Wartosc(tys.zl)": 1237
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 178,
+      "Wartosc(tys.zl)": 1901
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 218,
+      "Wartosc(tys.zl)": 2084
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 267,
+      "Wartosc(tys.zl)": 2792
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 246,
+      "Wartosc(tys.zl)": 2611
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 298,
+      "Wartosc(tys.zl)": 3383
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 310,
+      "Wartosc(tys.zl)": 3325
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 170,
+      "Wartosc(tys.zl)": 1654
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 202,
+      "Wartosc(tys.zl)": 1859
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 247,
+      "Wartosc(tys.zl)": 1698
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 238,
+      "Wartosc(tys.zl)": 2119
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 36,
+      "Wartosc(tys.zl)": 225
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 50,
+      "Wartosc(tys.zl)": 374
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 42,
+      "Wartosc(tys.zl)": 363
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 64,
+      "Wartosc(tys.zl)": 530
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 82,
+      "Wartosc(tys.zl)": 538
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 616
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 79,
+      "Wartosc(tys.zl)": 625
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 105,
+      "Wartosc(tys.zl)": 921
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 96,
+      "Wartosc(tys.zl)": 868
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 65,
+      "Wartosc(tys.zl)": 571
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 80,
+      "Wartosc(tys.zl)": 639
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 101,
+      "Wartosc(tys.zl)": 503
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 99,
+      "Wartosc(tys.zl)": 526
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 48,
+      "Wartosc(tys.zl)": 410
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 64,
+      "Wartosc(tys.zl)": 673
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 65,
+      "Wartosc(tys.zl)": 792
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 91,
+      "Wartosc(tys.zl)": 1253
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 118,
+      "Wartosc(tys.zl)": 1493
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 148,
+      "Wartosc(tys.zl)": 2043
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 122,
+      "Wartosc(tys.zl)": 1772
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 143,
+      "Wartosc(tys.zl)": 2210
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 148,
+      "Wartosc(tys.zl)": 2159
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 80,
+      "Wartosc(tys.zl)": 1012
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 82,
+      "Wartosc(tys.zl)": 1081
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 116,
+      "Wartosc(tys.zl)": 1128
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 111,
+      "Wartosc(tys.zl)": 1491
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 12,
+      "Wartosc(tys.zl)": 30
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 17,
+      "Wartosc(tys.zl)": 68
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 17,
+      "Wartosc(tys.zl)": 81
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 25,
+      "Wartosc(tys.zl)": 114
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 19,
+      "Wartosc(tys.zl)": 52
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 32,
+      "Wartosc(tys.zl)": 126
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 44,
+      "Wartosc(tys.zl)": 203
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 48,
+      "Wartosc(tys.zl)": 235
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 64,
+      "Wartosc(tys.zl)": 275
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 23,
+      "Wartosc(tys.zl)": 56
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 37,
+      "Wartosc(tys.zl)": 111
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 26,
+      "Wartosc(tys.zl)": 50
+    },
+    {
+      "Nazwa": "ŁÓDZKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 25,
+      "Wartosc(tys.zl)": 79
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 143,
+      "Wartosc(tys.zl)": 1066
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 155,
+      "Wartosc(tys.zl)": 1287
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 209,
+      "Wartosc(tys.zl)": 2134
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 239,
+      "Wartosc(tys.zl)": 2340
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 252,
+      "Wartosc(tys.zl)": 2068
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 227,
+      "Wartosc(tys.zl)": 1981
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 218,
+      "Wartosc(tys.zl)": 2004
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 240,
+      "Wartosc(tys.zl)": 2316
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 284,
+      "Wartosc(tys.zl)": 2705
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 333,
+      "Wartosc(tys.zl)": 3257
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 338,
+      "Wartosc(tys.zl)": 2826
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 297,
+      "Wartosc(tys.zl)": 1860
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 179,
+      "Wartosc(tys.zl)": 1257
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 78,
+      "Wartosc(tys.zl)": 513
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 89,
+      "Wartosc(tys.zl)": 689
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 116,
+      "Wartosc(tys.zl)": 1065
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 132,
+      "Wartosc(tys.zl)": 1090
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 155,
+      "Wartosc(tys.zl)": 1022
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 140,
+      "Wartosc(tys.zl)": 1031
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 140,
+      "Wartosc(tys.zl)": 1116
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 138,
+      "Wartosc(tys.zl)": 1158
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 146,
+      "Wartosc(tys.zl)": 1358
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 209,
+      "Wartosc(tys.zl)": 2061
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 177,
+      "Wartosc(tys.zl)": 1520
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 195,
+      "Wartosc(tys.zl)": 1082
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 128,
+      "Wartosc(tys.zl)": 701
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 54,
+      "Wartosc(tys.zl)": 518
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 52,
+      "Wartosc(tys.zl)": 535
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 71,
+      "Wartosc(tys.zl)": 955
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 75,
+      "Wartosc(tys.zl)": 1094
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 76,
+      "Wartosc(tys.zl)": 981
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 835
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 48,
+      "Wartosc(tys.zl)": 732
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 58,
+      "Wartosc(tys.zl)": 935
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 1008
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 74,
+      "Wartosc(tys.zl)": 1002
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 66,
+      "Wartosc(tys.zl)": 900
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 70,
+      "Wartosc(tys.zl)": 674
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 40,
+      "Wartosc(tys.zl)": 515
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 9,
+      "Wartosc(tys.zl)": 34
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 13,
+      "Wartosc(tys.zl)": 62
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 20,
+      "Wartosc(tys.zl)": 114
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 32,
+      "Wartosc(tys.zl)": 155
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 22,
+      "Wartosc(tys.zl)": 64
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 29,
+      "Wartosc(tys.zl)": 114
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 30,
+      "Wartosc(tys.zl)": 155
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 44,
+      "Wartosc(tys.zl)": 222
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 70,
+      "Wartosc(tys.zl)": 339
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 50,
+      "Wartosc(tys.zl)": 181
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 94,
+      "Wartosc(tys.zl)": 387
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 30,
+      "Wartosc(tys.zl)": 88
+    },
+    {
+      "Nazwa": "MAŁOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 11,
+      "Wartosc(tys.zl)": 40
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 108,
+      "Wartosc(tys.zl)": 776
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 680,
+      "Wartosc(tys.zl)": 5824
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 159,
+      "Wartosc(tys.zl)": 1656
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 153,
+      "Wartosc(tys.zl)": 1439
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 132,
+      "Wartosc(tys.zl)": 1087
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 215,
+      "Wartosc(tys.zl)": 1595
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 173,
+      "Wartosc(tys.zl)": 1571
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 198,
+      "Wartosc(tys.zl)": 1988
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 134,
+      "Wartosc(tys.zl)": 1257
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 190,
+      "Wartosc(tys.zl)": 1693
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 222,
+      "Wartosc(tys.zl)": 2038
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 186,
+      "Wartosc(tys.zl)": 1289
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 149,
+      "Wartosc(tys.zl)": 1177
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 43,
+      "Wartosc(tys.zl)": 260
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 257,
+      "Wartosc(tys.zl)": 2215
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 57,
+      "Wartosc(tys.zl)": 489
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 58,
+      "Wartosc(tys.zl)": 479
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 57,
+      "Wartosc(tys.zl)": 362
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 483
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 74,
+      "Wartosc(tys.zl)": 558
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 731
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 61,
+      "Wartosc(tys.zl)": 530
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 76,
+      "Wartosc(tys.zl)": 647
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 100,
+      "Wartosc(tys.zl)": 820
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 89,
+      "Wartosc(tys.zl)": 535
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 79,
+      "Wartosc(tys.zl)": 417
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 51,
+      "Wartosc(tys.zl)": 480
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 222,
+      "Wartosc(tys.zl)": 2613
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 71,
+      "Wartosc(tys.zl)": 1000
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 55,
+      "Wartosc(tys.zl)": 753
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 53,
+      "Wartosc(tys.zl)": 662
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 802
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 61,
+      "Wartosc(tys.zl)": 851
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 66,
+      "Wartosc(tys.zl)": 1034
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 46,
+      "Wartosc(tys.zl)": 608
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 71,
+      "Wartosc(tys.zl)": 892
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 1068
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 63,
+      "Wartosc(tys.zl)": 589
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 61,
+      "Wartosc(tys.zl)": 730
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 13,
+      "Wartosc(tys.zl)": 31
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 202,
+      "Wartosc(tys.zl)": 994
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 32,
+      "Wartosc(tys.zl)": 165
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 205
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 20,
+      "Wartosc(tys.zl)": 61
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 87,
+      "Wartosc(tys.zl)": 309
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 161
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 44,
+      "Wartosc(tys.zl)": 211
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 26,
+      "Wartosc(tys.zl)": 112
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 42,
+      "Wartosc(tys.zl)": 140
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 34,
+      "Wartosc(tys.zl)": 142
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 33,
+      "Wartosc(tys.zl)": 157
+    },
+    {
+      "Nazwa": "MAZOWIECKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 7,
+      "Wartosc(tys.zl)": 22
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 814,
+      "Wartosc(tys.zl)": 4310
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 567,
+      "Wartosc(tys.zl)": 3489
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 641,
+      "Wartosc(tys.zl)": 5571
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 576,
+      "Wartosc(tys.zl)": 4654
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 582,
+      "Wartosc(tys.zl)": 4012
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 628,
+      "Wartosc(tys.zl)": 5093
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 667,
+      "Wartosc(tys.zl)": 5291
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 745,
+      "Wartosc(tys.zl)": 6614
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 747,
+      "Wartosc(tys.zl)": 6167
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 622,
+      "Wartosc(tys.zl)": 5242
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 673,
+      "Wartosc(tys.zl)": 5364
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 403,
+      "Wartosc(tys.zl)": 2215
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 393,
+      "Wartosc(tys.zl)": 2726
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 269,
+      "Wartosc(tys.zl)": 1848
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 189,
+      "Wartosc(tys.zl)": 1457
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 240,
+      "Wartosc(tys.zl)": 2215
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 238,
+      "Wartosc(tys.zl)": 1814
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 302,
+      "Wartosc(tys.zl)": 2030
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 270,
+      "Wartosc(tys.zl)": 2020
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 265,
+      "Wartosc(tys.zl)": 1995
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 310,
+      "Wartosc(tys.zl)": 2593
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 311,
+      "Wartosc(tys.zl)": 2740
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 272,
+      "Wartosc(tys.zl)": 2351
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 282,
+      "Wartosc(tys.zl)": 2377
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 177,
+      "Wartosc(tys.zl)": 913
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 181,
+      "Wartosc(tys.zl)": 1018
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 172,
+      "Wartosc(tys.zl)": 1347
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 107,
+      "Wartosc(tys.zl)": 988
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 124,
+      "Wartosc(tys.zl)": 1736
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 137,
+      "Wartosc(tys.zl)": 1887
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 118,
+      "Wartosc(tys.zl)": 1503
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 165,
+      "Wartosc(tys.zl)": 2324
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 150,
+      "Wartosc(tys.zl)": 2173
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 179,
+      "Wartosc(tys.zl)": 2793
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 171,
+      "Wartosc(tys.zl)": 2343
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 169,
+      "Wartosc(tys.zl)": 2252
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 151,
+      "Wartosc(tys.zl)": 2013
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 103,
+      "Wartosc(tys.zl)": 993
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 107,
+      "Wartosc(tys.zl)": 1331
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 372,
+      "Wartosc(tys.zl)": 1115
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 271,
+      "Wartosc(tys.zl)": 1044
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 280,
+      "Wartosc(tys.zl)": 1620
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 201,
+      "Wartosc(tys.zl)": 952
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 162,
+      "Wartosc(tys.zl)": 479
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 192,
+      "Wartosc(tys.zl)": 747
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 251,
+      "Wartosc(tys.zl)": 1117
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 255,
+      "Wartosc(tys.zl)": 1216
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 263,
+      "Wartosc(tys.zl)": 1073
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 179,
+      "Wartosc(tys.zl)": 622
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 237,
+      "Wartosc(tys.zl)": 941
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 121,
+      "Wartosc(tys.zl)": 296
+    },
+    {
+      "Nazwa": "OPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 103,
+      "Wartosc(tys.zl)": 362
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 428,
+      "Wartosc(tys.zl)": 3022
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 340,
+      "Wartosc(tys.zl)": 2993
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 522,
+      "Wartosc(tys.zl)": 5127
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 567,
+      "Wartosc(tys.zl)": 5423
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 486,
+      "Wartosc(tys.zl)": 3853
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 555,
+      "Wartosc(tys.zl)": 4967
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 519,
+      "Wartosc(tys.zl)": 4936
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 471,
+      "Wartosc(tys.zl)": 4701
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 645,
+      "Wartosc(tys.zl)": 6141
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 573,
+      "Wartosc(tys.zl)": 5693
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 608,
+      "Wartosc(tys.zl)": 5027
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 328,
+      "Wartosc(tys.zl)": 2080
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 455,
+      "Wartosc(tys.zl)": 3424
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 262,
+      "Wartosc(tys.zl)": 1676
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 187,
+      "Wartosc(tys.zl)": 1509
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 316,
+      "Wartosc(tys.zl)": 2890
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 352,
+      "Wartosc(tys.zl)": 3048
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 321,
+      "Wartosc(tys.zl)": 2136
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 342,
+      "Wartosc(tys.zl)": 2516
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 332,
+      "Wartosc(tys.zl)": 2703
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 266,
+      "Wartosc(tys.zl)": 2351
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 384,
+      "Wartosc(tys.zl)": 3527
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 393,
+      "Wartosc(tys.zl)": 3774
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 411,
+      "Wartosc(tys.zl)": 3283
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 228,
+      "Wartosc(tys.zl)": 1233
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 327,
+      "Wartosc(tys.zl)": 1905
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 127,
+      "Wartosc(tys.zl)": 1212
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 104,
+      "Wartosc(tys.zl)": 1275
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 144,
+      "Wartosc(tys.zl)": 1884
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 144,
+      "Wartosc(tys.zl)": 2027
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 131,
+      "Wartosc(tys.zl)": 1619
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 156,
+      "Wartosc(tys.zl)": 2228
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 125,
+      "Wartosc(tys.zl)": 1933
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 112,
+      "Wartosc(tys.zl)": 1848
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 154,
+      "Wartosc(tys.zl)": 2167
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 141,
+      "Wartosc(tys.zl)": 1807
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 109,
+      "Wartosc(tys.zl)": 1425
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 80,
+      "Wartosc(tys.zl)": 801
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 105,
+      "Wartosc(tys.zl)": 1431
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 39,
+      "Wartosc(tys.zl)": 123
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 48,
+      "Wartosc(tys.zl)": 208
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 63,
+      "Wartosc(tys.zl)": 352
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 69,
+      "Wartosc(tys.zl)": 347
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 34,
+      "Wartosc(tys.zl)": 97
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 57,
+      "Wartosc(tys.zl)": 222
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 63,
+      "Wartosc(tys.zl)": 299
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 93,
+      "Wartosc(tys.zl)": 502
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 107,
+      "Wartosc(tys.zl)": 446
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 39,
+      "Wartosc(tys.zl)": 111
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 89,
+      "Wartosc(tys.zl)": 318
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 20,
+      "Wartosc(tys.zl)": 46
+    },
+    {
+      "Nazwa": "PODKARPACKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 23,
+      "Wartosc(tys.zl)": 88
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 140,
+      "Wartosc(tys.zl)": 874
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 265,
+      "Wartosc(tys.zl)": 2010
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 245,
+      "Wartosc(tys.zl)": 2161
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 176,
+      "Wartosc(tys.zl)": 1518
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 201,
+      "Wartosc(tys.zl)": 1345
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 209,
+      "Wartosc(tys.zl)": 1560
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 242,
+      "Wartosc(tys.zl)": 1955
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 250,
+      "Wartosc(tys.zl)": 2338
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 152,
+      "Wartosc(tys.zl)": 1409
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 251,
+      "Wartosc(tys.zl)": 2107
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 397,
+      "Wartosc(tys.zl)": 4025
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 281,
+      "Wartosc(tys.zl)": 1955
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 310,
+      "Wartosc(tys.zl)": 2800
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 86,
+      "Wartosc(tys.zl)": 515
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 130,
+      "Wartosc(tys.zl)": 938
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 137,
+      "Wartosc(tys.zl)": 1202
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 100,
+      "Wartosc(tys.zl)": 812
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 110,
+      "Wartosc(tys.zl)": 702
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 115,
+      "Wartosc(tys.zl)": 797
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 124,
+      "Wartosc(tys.zl)": 971
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 141,
+      "Wartosc(tys.zl)": 1228
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 93,
+      "Wartosc(tys.zl)": 823
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 144,
+      "Wartosc(tys.zl)": 1237
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 268,
+      "Wartosc(tys.zl)": 2509
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 193,
+      "Wartosc(tys.zl)": 1271
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 218,
+      "Wartosc(tys.zl)": 1842
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 36,
+      "Wartosc(tys.zl)": 313
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 50,
+      "Wartosc(tys.zl)": 533
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 56,
+      "Wartosc(tys.zl)": 676
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 37,
+      "Wartosc(tys.zl)": 504
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 39,
+      "Wartosc(tys.zl)": 458
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 519
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 47,
+      "Wartosc(tys.zl)": 673
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 55,
+      "Wartosc(tys.zl)": 847
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 35,
+      "Wartosc(tys.zl)": 469
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 58,
+      "Wartosc(tys.zl)": 702
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 101,
+      "Wartosc(tys.zl)": 1423
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 56,
+      "Wartosc(tys.zl)": 598
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 77,
+      "Wartosc(tys.zl)": 911
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 18,
+      "Wartosc(tys.zl)": 46
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 76,
+      "Wartosc(tys.zl)": 479
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 51,
+      "Wartosc(tys.zl)": 261
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 36,
+      "Wartosc(tys.zl)": 174
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 50,
+      "Wartosc(tys.zl)": 154
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 47,
+      "Wartosc(tys.zl)": 175
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 279
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 50,
+      "Wartosc(tys.zl)": 210
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 24,
+      "Wartosc(tys.zl)": 106
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 48,
+      "Wartosc(tys.zl)": 131
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 28,
+      "Wartosc(tys.zl)": 92
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 31,
+      "Wartosc(tys.zl)": 86
+    },
+    {
+      "Nazwa": "PODLASKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 14,
+      "Wartosc(tys.zl)": 46
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 401,
+      "Wartosc(tys.zl)": 2587
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 519,
+      "Wartosc(tys.zl)": 3638
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 549,
+      "Wartosc(tys.zl)": 4773
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 591,
+      "Wartosc(tys.zl)": 4865
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 672,
+      "Wartosc(tys.zl)": 4670
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 807,
+      "Wartosc(tys.zl)": 6173
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 934,
+      "Wartosc(tys.zl)": 7261
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 922,
+      "Wartosc(tys.zl)": 7986
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 989,
+      "Wartosc(tys.zl)": 8524
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 831,
+      "Wartosc(tys.zl)": 6469
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 1080,
+      "Wartosc(tys.zl)": 7715
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 874,
+      "Wartosc(tys.zl)": 4181
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 770,
+      "Wartosc(tys.zl)": 4576
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 228,
+      "Wartosc(tys.zl)": 1403
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 263,
+      "Wartosc(tys.zl)": 1896
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 299,
+      "Wartosc(tys.zl)": 2552
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 316,
+      "Wartosc(tys.zl)": 2492
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 413,
+      "Wartosc(tys.zl)": 2592
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 484,
+      "Wartosc(tys.zl)": 3374
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 500,
+      "Wartosc(tys.zl)": 3819
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 517,
+      "Wartosc(tys.zl)": 4304
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 579,
+      "Wartosc(tys.zl)": 5293
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 489,
+      "Wartosc(tys.zl)": 4237
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 602,
+      "Wartosc(tys.zl)": 4681
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 483,
+      "Wartosc(tys.zl)": 2454
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 465,
+      "Wartosc(tys.zl)": 2456
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 106,
+      "Wartosc(tys.zl)": 1018
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 97,
+      "Wartosc(tys.zl)": 1070
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 110,
+      "Wartosc(tys.zl)": 1450
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 125,
+      "Wartosc(tys.zl)": 1732
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 145,
+      "Wartosc(tys.zl)": 1791
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 161,
+      "Wartosc(tys.zl)": 2171
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 159,
+      "Wartosc(tys.zl)": 2242
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 158,
+      "Wartosc(tys.zl)": 2461
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 162,
+      "Wartosc(tys.zl)": 2160
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 144,
+      "Wartosc(tys.zl)": 1734
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 155,
+      "Wartosc(tys.zl)": 1945
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 122,
+      "Wartosc(tys.zl)": 1127
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 128,
+      "Wartosc(tys.zl)": 1538
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 69,
+      "Wartosc(tys.zl)": 165
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 158,
+      "Wartosc(tys.zl)": 672
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 142,
+      "Wartosc(tys.zl)": 769
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 147,
+      "Wartosc(tys.zl)": 639
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 114,
+      "Wartosc(tys.zl)": 287
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 154,
+      "Wartosc(tys.zl)": 578
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 273,
+      "Wartosc(tys.zl)": 1182
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 244,
+      "Wartosc(tys.zl)": 1193
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 244,
+      "Wartosc(tys.zl)": 1032
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 196,
+      "Wartosc(tys.zl)": 481
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 322,
+      "Wartosc(tys.zl)": 1075
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 267,
+      "Wartosc(tys.zl)": 591
+    },
+    {
+      "Nazwa": "POMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 176,
+      "Wartosc(tys.zl)": 574
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 326,
+      "Wartosc(tys.zl)": 1805
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 345,
+      "Wartosc(tys.zl)": 2114
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 385,
+      "Wartosc(tys.zl)": 3368
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 346,
+      "Wartosc(tys.zl)": 3021
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 338,
+      "Wartosc(tys.zl)": 2545
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 326,
+      "Wartosc(tys.zl)": 2653
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 277,
+      "Wartosc(tys.zl)": 2235
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 377,
+      "Wartosc(tys.zl)": 3597
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 300,
+      "Wartosc(tys.zl)": 2793
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 296,
+      "Wartosc(tys.zl)": 2723
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 493,
+      "Wartosc(tys.zl)": 3877
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 281,
+      "Wartosc(tys.zl)": 1539
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 583,
+      "Wartosc(tys.zl)": 3675
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 115,
+      "Wartosc(tys.zl)": 760
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 119,
+      "Wartosc(tys.zl)": 893
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 150,
+      "Wartosc(tys.zl)": 1365
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 203,
+      "Wartosc(tys.zl)": 1642
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 229,
+      "Wartosc(tys.zl)": 1542
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 201,
+      "Wartosc(tys.zl)": 1402
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 163,
+      "Wartosc(tys.zl)": 1175
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 189,
+      "Wartosc(tys.zl)": 1675
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 158,
+      "Wartosc(tys.zl)": 1541
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 177,
+      "Wartosc(tys.zl)": 1713
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 263,
+      "Wartosc(tys.zl)": 2265
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 166,
+      "Wartosc(tys.zl)": 872
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 273,
+      "Wartosc(tys.zl)": 1536
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 74,
+      "Wartosc(tys.zl)": 633
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 70,
+      "Wartosc(tys.zl)": 666
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 75,
+      "Wartosc(tys.zl)": 1043
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 74,
+      "Wartosc(tys.zl)": 1033
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 863
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 77,
+      "Wartosc(tys.zl)": 1047
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 52,
+      "Wartosc(tys.zl)": 755
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 81,
+      "Wartosc(tys.zl)": 1336
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 58,
+      "Wartosc(tys.zl)": 859
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 792
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 68,
+      "Wartosc(tys.zl)": 920
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 55,
+      "Wartosc(tys.zl)": 494
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 109,
+      "Wartosc(tys.zl)": 1376
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 138,
+      "Wartosc(tys.zl)": 412
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 155,
+      "Wartosc(tys.zl)": 539
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 160,
+      "Wartosc(tys.zl)": 937
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 67,
+      "Wartosc(tys.zl)": 313
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 116
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 45,
+      "Wartosc(tys.zl)": 175
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 283
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 104,
+      "Wartosc(tys.zl)": 551
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 81,
+      "Wartosc(tys.zl)": 364
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 59,
+      "Wartosc(tys.zl)": 204
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 157,
+      "Wartosc(tys.zl)": 643
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 57,
+      "Wartosc(tys.zl)": 154
+    },
+    {
+      "Nazwa": "ŚLĄSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 200,
+      "Wartosc(tys.zl)": 759
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 34,
+      "Wartosc(tys.zl)": 256
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 39,
+      "Wartosc(tys.zl)": 327
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 26,
+      "Wartosc(tys.zl)": 257
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 10,
+      "Wartosc(tys.zl)": 117
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 24,
+      "Wartosc(tys.zl)": 192
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 22,
+      "Wartosc(tys.zl)": 196
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 73,
+      "Wartosc(tys.zl)": 784
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 32,
+      "Wartosc(tys.zl)": 312
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 151,
+      "Wartosc(tys.zl)": 1627
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 71,
+      "Wartosc(tys.zl)": 772
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 138,
+      "Wartosc(tys.zl)": 1244
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 92,
+      "Wartosc(tys.zl)": 723
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 83,
+      "Wartosc(tys.zl)": 835
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 14,
+      "Wartosc(tys.zl)": 91
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 20,
+      "Wartosc(tys.zl)": 144
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 15,
+      "Wartosc(tys.zl)": 126
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 4,
+      "Wartosc(tys.zl)": 25
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 13,
+      "Wartosc(tys.zl)": 79
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 11,
+      "Wartosc(tys.zl)": 72
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 27,
+      "Wartosc(tys.zl)": 210
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 16,
+      "Wartosc(tys.zl)": 131
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 54,
+      "Wartosc(tys.zl)": 520
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 25,
+      "Wartosc(tys.zl)": 237
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 54,
+      "Wartosc(tys.zl)": 467
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 39,
+      "Wartosc(tys.zl)": 215
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 35,
+      "Wartosc(tys.zl)": 217
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 16,
+      "Wartosc(tys.zl)": 157
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 16,
+      "Wartosc(tys.zl)": 165
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 10,
+      "Wartosc(tys.zl)": 120
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 6,
+      "Wartosc(tys.zl)": 89
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 9,
+      "Wartosc(tys.zl)": 107
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 9,
+      "Wartosc(tys.zl)": 117
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 32,
+      "Wartosc(tys.zl)": 498
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 10,
+      "Wartosc(tys.zl)": 159
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 62,
+      "Wartosc(tys.zl)": 937
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 37,
+      "Wartosc(tys.zl)": 501
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 46,
+      "Wartosc(tys.zl)": 634
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 45,
+      "Wartosc(tys.zl)": 482
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 560
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 3,
+      "Wartosc(tys.zl)": 7
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 3,
+      "Wartosc(tys.zl)": 17
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 1,
+      "Wartosc(tys.zl)": 10
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 1,
+      "Wartosc(tys.zl)": 2
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 2,
+      "Wartosc(tys.zl)": 5
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 2,
+      "Wartosc(tys.zl)": 7
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 15,
+      "Wartosc(tys.zl)": 76
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 5,
+      "Wartosc(tys.zl)": 22
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 35,
+      "Wartosc(tys.zl)": 169
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 10,
+      "Wartosc(tys.zl)": 32
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 38,
+      "Wartosc(tys.zl)": 142
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 8,
+      "Wartosc(tys.zl)": 25
+    },
+    {
+      "Nazwa": "ŚWIĘTOKRZYSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 10,
+      "Wartosc(tys.zl)": 57
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 740,
+      "Wartosc(tys.zl)": 4234
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 1129,
+      "Wartosc(tys.zl)": 7872
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 994,
+      "Wartosc(tys.zl)": 8338
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 1075,
+      "Wartosc(tys.zl)": 8623
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 783,
+      "Wartosc(tys.zl)": 5376
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 1041,
+      "Wartosc(tys.zl)": 7326
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 1290,
+      "Wartosc(tys.zl)": 9366
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 1442,
+      "Wartosc(tys.zl)": 11733
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 913,
+      "Wartosc(tys.zl)": 6845
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 2234,
+      "Wartosc(tys.zl)": 17776
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 1288,
+      "Wartosc(tys.zl)": 10018
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 954,
+      "Wartosc(tys.zl)": 5806
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 890,
+      "Wartosc(tys.zl)": 6721
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 310,
+      "Wartosc(tys.zl)": 1890
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 393,
+      "Wartosc(tys.zl)": 2973
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 396,
+      "Wartosc(tys.zl)": 3495
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 400,
+      "Wartosc(tys.zl)": 3236
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 377,
+      "Wartosc(tys.zl)": 2514
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 452,
+      "Wartosc(tys.zl)": 3172
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 495,
+      "Wartosc(tys.zl)": 3794
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 533,
+      "Wartosc(tys.zl)": 4598
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 336,
+      "Wartosc(tys.zl)": 2956
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 1006,
+      "Wartosc(tys.zl)": 9132
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 679,
+      "Wartosc(tys.zl)": 5444
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 542,
+      "Wartosc(tys.zl)": 3299
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 556,
+      "Wartosc(tys.zl)": 3577
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 170,
+      "Wartosc(tys.zl)": 1604
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 218,
+      "Wartosc(tys.zl)": 2476
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 192,
+      "Wartosc(tys.zl)": 2616
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 206,
+      "Wartosc(tys.zl)": 2842
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 168,
+      "Wartosc(tys.zl)": 2092
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 203,
+      "Wartosc(tys.zl)": 2762
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 211,
+      "Wartosc(tys.zl)": 3016
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 243,
+      "Wartosc(tys.zl)": 3812
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 166,
+      "Wartosc(tys.zl)": 2189
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 517,
+      "Wartosc(tys.zl)": 6646
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 268,
+      "Wartosc(tys.zl)": 3445
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 213,
+      "Wartosc(tys.zl)": 2074
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 231,
+      "Wartosc(tys.zl)": 2805
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 255,
+      "Wartosc(tys.zl)": 709
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 519,
+      "Wartosc(tys.zl)": 2418
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 403,
+      "Wartosc(tys.zl)": 2209
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 462,
+      "Wartosc(tys.zl)": 2507
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 197,
+      "Wartosc(tys.zl)": 506
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 386,
+      "Wartosc(tys.zl)": 1391
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 583,
+      "Wartosc(tys.zl)": 2549
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 659,
+      "Wartosc(tys.zl)": 3255
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 410,
+      "Wartosc(tys.zl)": 1688
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 693,
+      "Wartosc(tys.zl)": 1834
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 327,
+      "Wartosc(tys.zl)": 1027
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 194,
+      "Wartosc(tys.zl)": 407
+    },
+    {
+      "Nazwa": "WARMIŃSKO-MAZURSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 99,
+      "Wartosc(tys.zl)": 316
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 792,
+      "Wartosc(tys.zl)": 4729
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 934,
+      "Wartosc(tys.zl)": 6245
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 1028,
+      "Wartosc(tys.zl)": 8518
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 1325,
+      "Wartosc(tys.zl)": 10252
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 1440,
+      "Wartosc(tys.zl)": 9755
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 1370,
+      "Wartosc(tys.zl)": 9794
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 1760,
+      "Wartosc(tys.zl)": 13490
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 2015,
+      "Wartosc(tys.zl)": 17376
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 1802,
+      "Wartosc(tys.zl)": 13801
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 1567,
+      "Wartosc(tys.zl)": 11658
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 2331,
+      "Wartosc(tys.zl)": 16806
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 1833,
+      "Wartosc(tys.zl)": 9530
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 1476,
+      "Wartosc(tys.zl)": 10873
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 314,
+      "Wartosc(tys.zl)": 1952
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 317,
+      "Wartosc(tys.zl)": 2309
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 367,
+      "Wartosc(tys.zl)": 3273
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 467,
+      "Wartosc(tys.zl)": 3633
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 608,
+      "Wartosc(tys.zl)": 3958
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 551,
+      "Wartosc(tys.zl)": 3817
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 593,
+      "Wartosc(tys.zl)": 4627
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 351,
+      "Wartosc(tys.zl)": 3277
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 667,
+      "Wartosc(tys.zl)": 5947
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 672,
+      "Wartosc(tys.zl)": 5991
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 906,
+      "Wartosc(tys.zl)": 7774
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 804,
+      "Wartosc(tys.zl)": 4547
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 727,
+      "Wartosc(tys.zl)": 5050
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 211,
+      "Wartosc(tys.zl)": 2036
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 183,
+      "Wartosc(tys.zl)": 1985
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 207,
+      "Wartosc(tys.zl)": 2749
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 298,
+      "Wartosc(tys.zl)": 4013
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 365,
+      "Wartosc(tys.zl)": 4536
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 326,
+      "Wartosc(tys.zl)": 4095
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 333,
+      "Wartosc(tys.zl)": 4841
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 373,
+      "Wartosc(tys.zl)": 5909
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 334,
+      "Wartosc(tys.zl)": 4457
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 311,
+      "Wartosc(tys.zl)": 3865
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 355,
+      "Wartosc(tys.zl)": 4710
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 311,
+      "Wartosc(tys.zl)": 2918
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 309,
+      "Wartosc(tys.zl)": 4115
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 259,
+      "Wartosc(tys.zl)": 703
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 419,
+      "Wartosc(tys.zl)": 1766
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 449,
+      "Wartosc(tys.zl)": 2467
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 552,
+      "Wartosc(tys.zl)": 2524
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 461,
+      "Wartosc(tys.zl)": 1236
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 481,
+      "Wartosc(tys.zl)": 1740
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 795,
+      "Wartosc(tys.zl)": 3706
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 753,
+      "Wartosc(tys.zl)": 3800
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 768,
+      "Wartosc(tys.zl)": 3016
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 548,
+      "Wartosc(tys.zl)": 1461
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 1012,
+      "Wartosc(tys.zl)": 3822
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 682,
+      "Wartosc(tys.zl)": 1854
+    },
+    {
+      "Nazwa": "WIELKOPOLSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 403,
+      "Wartosc(tys.zl)": 1471
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2009,
+      "Ilosc(t)": 1413,
+      "Wartosc(tys.zl)": 7659
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2010,
+      "Ilosc(t)": 1869,
+      "Wartosc(tys.zl)": 11780
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2011,
+      "Ilosc(t)": 1983,
+      "Wartosc(tys.zl)": 15730
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2012,
+      "Ilosc(t)": 2061,
+      "Wartosc(tys.zl)": 14385
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2013,
+      "Ilosc(t)": 1917,
+      "Wartosc(tys.zl)": 11457
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2014,
+      "Ilosc(t)": 2303,
+      "Wartosc(tys.zl)": 15058
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2015,
+      "Ilosc(t)": 2930,
+      "Wartosc(tys.zl)": 19884
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2016,
+      "Ilosc(t)": 2866,
+      "Wartosc(tys.zl)": 21891
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2017,
+      "Ilosc(t)": 2210,
+      "Wartosc(tys.zl)": 18253
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2018,
+      "Ilosc(t)": 2780,
+      "Wartosc(tys.zl)": 17440
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2019,
+      "Ilosc(t)": 3357,
+      "Wartosc(tys.zl)": 20378
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2020,
+      "Ilosc(t)": 3817,
+      "Wartosc(tys.zl)": 15394
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "ogółem",
+      "Rok": 2021,
+      "Ilosc(t)": 3110,
+      "Wartosc(tys.zl)": 17566
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2009,
+      "Ilosc(t)": 562,
+      "Wartosc(tys.zl)": 3551
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2010,
+      "Ilosc(t)": 657,
+      "Wartosc(tys.zl)": 4753
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2011,
+      "Ilosc(t)": 781,
+      "Wartosc(tys.zl)": 7024
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2012,
+      "Ilosc(t)": 753,
+      "Wartosc(tys.zl)": 6013
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2013,
+      "Ilosc(t)": 935,
+      "Wartosc(tys.zl)": 6019
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2014,
+      "Ilosc(t)": 1066,
+      "Wartosc(tys.zl)": 7421
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2015,
+      "Ilosc(t)": 1141,
+      "Wartosc(tys.zl)": 8785
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2016,
+      "Ilosc(t)": 1227,
+      "Wartosc(tys.zl)": 10592
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2017,
+      "Ilosc(t)": 1303,
+      "Wartosc(tys.zl)": 11929
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2018,
+      "Ilosc(t)": 1262,
+      "Wartosc(tys.zl)": 10881
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2019,
+      "Ilosc(t)": 1384,
+      "Wartosc(tys.zl)": 10840
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2020,
+      "Ilosc(t)": 1466,
+      "Wartosc(tys.zl)": 7712
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "jelenie",
+      "Rok": 2021,
+      "Ilosc(t)": 1511,
+      "Wartosc(tys.zl)": 9236
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2009,
+      "Ilosc(t)": 251,
+      "Wartosc(tys.zl)": 2397
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2010,
+      "Ilosc(t)": 243,
+      "Wartosc(tys.zl)": 2663
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2011,
+      "Ilosc(t)": 255,
+      "Wartosc(tys.zl)": 3453
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2012,
+      "Ilosc(t)": 249,
+      "Wartosc(tys.zl)": 3362
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2013,
+      "Ilosc(t)": 293,
+      "Wartosc(tys.zl)": 3565
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2014,
+      "Ilosc(t)": 301,
+      "Wartosc(tys.zl)": 4096
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2015,
+      "Ilosc(t)": 304,
+      "Wartosc(tys.zl)": 4321
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2016,
+      "Ilosc(t)": 307,
+      "Wartosc(tys.zl)": 4829
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2017,
+      "Ilosc(t)": 287,
+      "Wartosc(tys.zl)": 3852
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2018,
+      "Ilosc(t)": 281,
+      "Wartosc(tys.zl)": 3372
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2019,
+      "Ilosc(t)": 293,
+      "Wartosc(tys.zl)": 3709
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2020,
+      "Ilosc(t)": 283,
+      "Wartosc(tys.zl)": 2613
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "sarny",
+      "Rok": 2021,
+      "Ilosc(t)": 301,
+      "Wartosc(tys.zl)": 3613
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2009,
+      "Ilosc(t)": 597,
+      "Wartosc(tys.zl)": 1690
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2010,
+      "Ilosc(t)": 970,
+      "Wartosc(tys.zl)": 4364
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2011,
+      "Ilosc(t)": 950,
+      "Wartosc(tys.zl)": 5252
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2012,
+      "Ilosc(t)": 1058,
+      "Wartosc(tys.zl)": 4984
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2013,
+      "Ilosc(t)": 689,
+      "Wartosc(tys.zl)": 1872
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2014,
+      "Ilosc(t)": 932,
+      "Wartosc(tys.zl)": 3513
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2015,
+      "Ilosc(t)": 1471,
+      "Wartosc(tys.zl)": 6678
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2016,
+      "Ilosc(t)": 1317,
+      "Wartosc(tys.zl)": 6347
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2017,
+      "Ilosc(t)": 602,
+      "Wartosc(tys.zl)": 2314
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2018,
+      "Ilosc(t)": 1216,
+      "Wartosc(tys.zl)": 2930
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2019,
+      "Ilosc(t)": 1655,
+      "Wartosc(tys.zl)": 5537
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2020,
+      "Ilosc(t)": 2041,
+      "Wartosc(tys.zl)": 4861
+    },
+    {
+      "Nazwa": "ZACHODNIOPOMORSKIE",
+      "Zwierzeta_lowne": "dziki",
+      "Rok": 2021,
+      "Ilosc(t)": 1274,
+      "Wartosc(tys.zl)": 4461
+    }
+]

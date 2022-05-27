@@ -2,8 +2,11 @@ package com.example.is_projekt.bootstrap;
 
 import com.example.is_projekt.model.Region;
 import com.example.is_projekt.model.Statistics;
+import com.example.is_projekt.modelDTO.StatisticsDTO;
+import com.example.is_projekt.modelDTO.StatisticsObjectJSON;
 import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
@@ -13,7 +16,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-
 
 import javax.xml.XMLConstants;
 import javax.xml.parsers.DocumentBuilder;
@@ -37,31 +39,47 @@ public class BootLoader implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         getStatsFromCsv();
-
+//        createCallSoap();
     }
 
     private void getStatsFromCsv() {
-        /**
-         * Read from CSV file
-         */
         List<List<String>> records = new ArrayList<>();
         List<List<String>> regions = new ArrayList<>();
         File file = null;
+
+        /**
+         * Read from JSON file
+         */
         try {
-            file = ResourceUtils.getFile("classpath:stats.csv");
+            file = ResourceUtils.getFile("classpath:data.json");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
+//        StatisticsObjectJSON object;
+//        try {
+//            object = new ObjectMapper().readValue(file, StatisticsObjectJSON.class);
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
+//            List<String> tempList = new ArrayList<>();
+//            tempList.add(object.getNazwa());
+//            tempList.add(object.getZwierzeta_lowne());
+//            tempList.add(String.valueOf(object.getRok()));
+//            tempList.add(String.valueOf(object.getIlosc()));
+//            tempList.add(String.valueOf(object.getWartosc()));
+//
+//        records.add(tempList);
 
-        try (Scanner scanner = new Scanner(file)) {
+        /**
+         * Read from CSV file
+         */
+
+        try {
+            file = ResourceUtils.getFile("classpath:stats.csv");
+            Scanner scanner = new Scanner(file);
             while (scanner.hasNextLine()) {
                 records.add(getRecordFromLine(scanner.nextLine()));
             }
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
-
-        try {
             file = ResourceUtils.getFile("classpath:hunted.xml");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
@@ -120,8 +138,6 @@ public class BootLoader implements CommandLineRunner {
     }
 
 
-    //TODO SOAP mozna zrobic na szybko tak zeby przesylać przez niego obszar danego wojewodztwa i tutaj w funkcji ustawiac
-    //TODO np getAreaOfRegion(String nameOfRegion) w ten sposob
     private void addDataToDatabase(List<List<String>> records, List<List<String>> regions) {
 
         /**
@@ -168,4 +184,5 @@ public class BootLoader implements CommandLineRunner {
             }
         }
     }
+
 }
