@@ -1,7 +1,9 @@
 package com.example.is_projekt.controllers;
 
+import com.example.is_projekt.modelDTO.RegionDTO;
 import com.example.is_projekt.modelDTO.StatisticsDTO;
 import com.example.is_projekt.repositories.StatisticsRepository;
+import com.example.is_projekt.services.RegionService;
 import com.example.is_projekt.services.StatisticsService;
 import lombok.AllArgsConstructor;
 import org.apache.commons.io.IOUtils;
@@ -27,6 +29,7 @@ import java.util.List;
 public class StatisticsController  {
     private final StatisticsRepository statisticsRepository;
     private final StatisticsService statisticsService;
+    private final RegionService regionService;
 
     /**
      * Endpoint do pobierania wszystikch danych
@@ -34,6 +37,11 @@ public class StatisticsController  {
     @GetMapping("/all")
     private ResponseEntity<List<StatisticsDTO>> getAllStats(){
         return ResponseEntity.ok(statisticsService.getAllStats());
+    }
+
+    @GetMapping("/regions")
+    private ResponseEntity<List<RegionDTO>> getRegions(){
+            return ResponseEntity.ok(regionService.getRegions());
     }
 
     /**
@@ -50,7 +58,7 @@ public class StatisticsController  {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-
+        System.out.println("Testing");
         return statisticsService.getResourceResponseEntity(file);
     }
 
@@ -68,7 +76,7 @@ public class StatisticsController  {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-
+        System.out.println("Testing");
         return statisticsService.getResourceResponseEntity(file);
     }
 
