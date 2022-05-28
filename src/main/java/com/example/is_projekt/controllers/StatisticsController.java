@@ -16,6 +16,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.ResourceUtils;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -78,6 +79,12 @@ public class StatisticsController  {
         }
         System.out.println("Testing");
         return statisticsService.getResourceResponseEntity(file);
+    }
+
+    @GetMapping("/stats/{year}")
+    public ResponseEntity<List<StatisticsDTO>> getStatsByYear(@PathVariable int year){
+
+        return ResponseEntity.ok(statisticsService.getStatsForYear(year));
     }
 
 }

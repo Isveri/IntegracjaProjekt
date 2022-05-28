@@ -39,7 +39,6 @@ public class BootLoader implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         getStatsFromCsv();
-//        createCallSoap();
     }
 
     private void getStatsFromCsv() {

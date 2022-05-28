@@ -15,6 +15,7 @@ public interface StatisticsService {
 
     Statistics showStatsByType(String name);
     List<StatisticsDTO> getAllStats();
+    List<StatisticsDTO> getStatsForYear(int year);
 
     void saveToXML()throws ParserConfigurationException, TransformerException;
     void saveToJSON();

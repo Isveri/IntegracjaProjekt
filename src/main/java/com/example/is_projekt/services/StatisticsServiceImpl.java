@@ -28,6 +28,7 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.io.*;
 import java.util.List;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 @RequiredArgsConstructor
@@ -49,6 +50,15 @@ public class StatisticsServiceImpl implements StatisticsService {
     public List<StatisticsDTO> getAllStats() {
         return statisticsRepository.findAll()
                 .stream()
+                .map(statisticsMapper::mapStatisticsToStatisticsDTO)
+                .collect(Collectors.toList());
+    }
+
+    @Override
+    public List<StatisticsDTO> getStatsForYear(int year) {
+        Predicate<Statistics> isThisYear = statistics-> statistics.getYear() == year && statistics.getType().equals("ogółem");
+        return statisticsRepository.findAll()
+                .stream().filter(isThisYear)
                 .map(statisticsMapper::mapStatisticsToStatisticsDTO)
                 .collect(Collectors.toList());
     }
