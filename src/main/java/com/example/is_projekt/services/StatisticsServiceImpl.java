@@ -25,6 +25,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
+import javax.persistence.EntityManager;
 import javax.xml.XMLConstants;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -47,6 +48,7 @@ public class StatisticsServiceImpl implements StatisticsService {
     private final StatisticsRepository statisticsRepository;
     private final StatisticsMapper statisticsMapper;
     private final RegionRepository regionRepository;
+    private final EntityManager entityManager;
 
 
     /**
@@ -183,7 +185,9 @@ public class StatisticsServiceImpl implements StatisticsService {
     }
 
 
+
     @Override
+    @Transactional(isolation = Isolation.REPEATABLE_READ)
     public List<StatisticsDTO> removeAllData() {
         List<StatisticsDTO> stats = statisticsRepository.findAll()
                 .stream()

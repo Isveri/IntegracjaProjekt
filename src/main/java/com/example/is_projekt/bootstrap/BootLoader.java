@@ -48,9 +48,10 @@ public class BootLoader implements CommandLineRunner {
                 .password(passwordEncoder.encode("admin"))
                 .build();
 
-        userRepository.save(user);
-
-        getStatsFromCsv();
+        if(userRepository.findAll().size()==0 && regionRepository.findAll().size()==0 && statisticsRepository.findAll().size()==0) {
+            userRepository.save(user);
+            getStatsFromCsv();
+        }
     }
 
     private void getStatsFromCsv() {
