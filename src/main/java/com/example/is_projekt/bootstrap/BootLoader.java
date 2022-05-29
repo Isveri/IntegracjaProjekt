@@ -2,13 +2,16 @@ package com.example.is_projekt.bootstrap;
 
 import com.example.is_projekt.model.Region;
 import com.example.is_projekt.model.Statistics;
+import com.example.is_projekt.model.User;
 import com.example.is_projekt.modelDTO.StatisticsDTO;
 import com.example.is_projekt.modelDTO.StatisticsObjectJSON;
 import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
+import com.example.is_projekt.repositories.UserRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ResourceUtils;
 import org.w3c.dom.Document;
@@ -34,10 +37,19 @@ import java.util.Scanner;
 public class BootLoader implements CommandLineRunner {
 
     private final RegionRepository regionRepository;
+    private final UserRepository userRepository;
     private final StatisticsRepository statisticsRepository;
+    private final PasswordEncoder passwordEncoder;
 
     @Override
     public void run(String... args) throws Exception {
+        User user = User.builder()
+                .username("Admin")
+                .password(passwordEncoder.encode("admin"))
+                .build();
+
+        userRepository.save(user);
+
         getStatsFromCsv();
     }
 

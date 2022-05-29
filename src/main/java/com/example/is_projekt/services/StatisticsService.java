@@ -13,11 +13,13 @@ import java.util.List;
 
 public interface StatisticsService {
 
-    Statistics showStatsByType(String name);
     List<StatisticsDTO> getAllStats();
     List<StatisticsDTO> getStatsForYear(int year);
+
 
     void saveToXML()throws ParserConfigurationException, TransformerException;
     void saveToJSON();
     ResponseEntity<Resource> getResourceResponseEntity(File file) throws FileNotFoundException;
+    List<StatisticsDTO> loadDataToDatabase();
+    List<StatisticsDTO> removeAllData();
 }
