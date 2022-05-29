@@ -3,9 +3,11 @@ package com.example.is_projekt.services;
 import com.example.is_projekt.mappers.StatisticsMapper;
 import com.example.is_projekt.model.Region;
 import com.example.is_projekt.model.Statistics;
+import com.example.is_projekt.model.StatisticsJSONObject;
 import com.example.is_projekt.modelDTO.StatisticsDTO;
 import com.example.is_projekt.repositories.RegionRepository;
 import com.example.is_projekt.repositories.StatisticsRepository;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
@@ -180,75 +182,37 @@ public class StatisticsServiceImpl implements StatisticsService {
 
     @Override
     public List<StatisticsDTO> loadDataToDatabase() {
-        getStatsFromCsv();
+        loadDataFromXMLJSON();
         return getAllStats();
     }
 
 
 
     @Override
-    @Transactional(isolation = Isolation.REPEATABLE_READ)
     public List<StatisticsDTO> removeAllData() {
-        List<StatisticsDTO> stats = statisticsRepository.findAll()
-                .stream()
-                .map(statisticsMapper::mapStatisticsToStatisticsDTO)
-                .collect(Collectors.toList());
-        System.out.println(stats);
+        List<StatisticsDTO> stats;
         statisticsRepository.deleteAll();
         stats = statisticsRepository.findAll()
                 .stream()
                 .map(statisticsMapper::mapStatisticsToStatisticsDTO)
                 .collect(Collectors.toList());
-        System.out.println(stats);
         return stats;
     }
 
-    private void getStatsFromCsv() {
-        List<List<String>> records = new ArrayList<>();
+    private void loadDataFromXMLJSON() {
         List<List<String>> regions = new ArrayList<>();
         File file = null;
 
         /**
-         * Read from JSON file
-         */
-        try {
-            file = ResourceUtils.getFile("classpath:data.json");
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
-        }
-//        StatisticsObjectJSON object;
-//        try {
-//            object = new ObjectMapper().readValue(file, StatisticsObjectJSON.class);
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
-//            List<String> tempList = new ArrayList<>();
-//            tempList.add(object.getNazwa());
-//            tempList.add(object.getZwierzeta_lowne());
-//            tempList.add(String.valueOf(object.getRok()));
-//            tempList.add(String.valueOf(object.getIlosc()));
-//            tempList.add(String.valueOf(object.getWartosc()));
-//
-//        records.add(tempList);
-
-        /**
-         * Read from CSV file
+         * Read from XML file
          */
 
         try {
-            file = ResourceUtils.getFile("classpath:stats.csv");
-            Scanner scanner = new Scanner(file);
-            while (scanner.hasNextLine()) {
-                records.add(getRecordFromLine(scanner.nextLine()));
-            }
             file = ResourceUtils.getFile("classpath:hunted.xml");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
 
-        /**
-         * Read from XML file
-         */
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 
         try {
@@ -277,52 +241,52 @@ public class StatisticsServiceImpl implements StatisticsService {
             e.printStackTrace();
         }
 
-        addDataToDatabase(records, regions);
+        addDataToDatabase(regions);
     }
 
-    /**
-     * Split record in line
-     *
-     * @param line
-     * @return
-     */
-    private List<String> getRecordFromLine(String line) {
-        List<String> values = new ArrayList<String>();
-        try (Scanner rowScanner = new Scanner(line)) {
-            rowScanner.useDelimiter(",");
-            while (rowScanner.hasNext()) {
-                values.add(rowScanner.next());
 
-            }
+    private void addDataToDatabase(List<List<String>> regions) {
+
+        /**
+         * Read from JSON file
+         */
+        List<StatisticsJSONObject> stats = new ArrayList<>();
+        ObjectMapper mapper = new ObjectMapper();
+        TypeReference<List<StatisticsJSONObject>> typeReference = new TypeReference<List<StatisticsJSONObject>>(){};
+        InputStream inputStream = TypeReference.class.getResourceAsStream("/data.json");
+        try {
+            stats = mapper.readValue(inputStream,typeReference);
+            System.out.println("Statistics saved");
+        } catch (IOException e){
+            e.printStackTrace();
+            System.out.println("Unable to save statistics:/ " + e.getMessage());
         }
-        return values;
-    }
-
-
-    private void addDataToDatabase(List<List<String>> records, List<List<String>> regions) {
 
         /**
          * add to database from records array
          */
         Region region;
-        records.remove(0);
-        for (List<String> li : records) {
-            Statistics statistics = new Statistics();
+        for (StatisticsJSONObject stat : stats) {
+            Statistics newStat = new Statistics();
             region = new Region();
-            if (regionRepository.findByName(li.get(0)).isPresent()) {
+            if (regionRepository.findByName(stat.getNazwa()).isPresent()) {
 
             } else {
-                region.setName(li.get(0));
+                region.setName(stat.getNazwa());
                 regionRepository.save(region);
-                statistics.setRegion(region);
+                newStat.setPrice(stat.getWartosc());
+                newStat.setType(stat.getZwierzeta_lowne());
+                newStat.setWeight(stat.getIlosc());
+                newStat.setYear(stat.getRok());
+                newStat.setRegion(region);
             }
-            region = regionRepository.findByName(li.get(0)).orElse(null);
-            statistics.setRegion(region);
-            statistics.setType(li.get(1));
-            statistics.setYear(Integer.valueOf(li.get(2)));
-            statistics.setWeight(Integer.valueOf(li.get(3)));
-            statistics.setPrice(Integer.valueOf(li.get(4)));
-            statisticsRepository.save(statistics);
+            region = regionRepository.findByName(stat.getNazwa()).orElse(null);
+            newStat.setPrice(stat.getWartosc());
+            newStat.setType(stat.getZwierzeta_lowne());
+            newStat.setWeight(stat.getIlosc());
+            newStat.setYear(stat.getRok());
+            newStat.setRegion(region);
+            statisticsRepository.save(newStat);
         }
 
 
@@ -347,4 +311,5 @@ public class StatisticsServiceImpl implements StatisticsService {
     }
 
 }
+
 
