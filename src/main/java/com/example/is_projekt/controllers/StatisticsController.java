@@ -60,7 +60,6 @@ public class StatisticsController  {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-        System.out.println("Testing");
         return statisticsService.getResourceResponseEntity(file);
     }
 
@@ -78,7 +77,6 @@ public class StatisticsController  {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-        System.out.println("Testing");
         return statisticsService.getResourceResponseEntity(file);
     }
 

@@ -38,6 +38,9 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.io.*;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -116,8 +119,16 @@ public class StatisticsServiceImpl implements StatisticsService {
             row.appendChild(type);
             type.setTextContent(stat.getType());
 
+            String path="";
+            URL res = getClass().getClassLoader().getResource("stats.xml");
+            try {
+                File file = Paths.get(res.toURI()).toFile();
+                path=file.getAbsolutePath();
+            } catch (URISyntaxException e) {
+                e.printStackTrace();
+            }
             try (FileOutputStream output =
-                         new FileOutputStream("C:\\Studia\\Semestr 6\\Integracja systemów\\Laboratorium\\Projekt\\IS_projekt\\src\\main\\resources\\stats.xml")) {
+                         new FileOutputStream(path)) {
                 writeXml(doc, output);
             } catch (IOException e) {
                 e.printStackTrace();
