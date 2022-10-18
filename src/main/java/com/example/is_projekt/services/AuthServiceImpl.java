@@ -1,6 +1,8 @@
 package com.example.is_projekt.services;
 
 
+import com.example.is_projekt.exceptions.InvalidCredentialsException;
+import com.example.is_projekt.exceptions.UserNotFoundException;
 import com.example.is_projekt.model.User;
 import com.example.is_projekt.model.auth.TokenResponse;
 import com.example.is_projekt.repositories.UserRepository;
@@ -11,6 +13,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+
+import javax.security.auth.login.CredentialNotFoundException;
 
 
 @RequiredArgsConstructor
@@ -28,7 +32,7 @@ public class AuthServiceImpl implements AuthService {
         User user = (User) userDetailsService.loadUserByUsername(userCredentials.getUsername());
         if (passwordEncoder.matches(userCredentials.getPassword(), user.getPassword()))
             return new TokenResponse(jwtTokenUtil.generateAccessToken(user));
-        return null;
+        throw new InvalidCredentialsException();
     }
 
     @Override
@@ -37,7 +41,7 @@ public class AuthServiceImpl implements AuthService {
         String username = user.getUsername();
         String password = user.getPassword();
         if (userRepository.findByUsername(username).isPresent()) {
-            return null;
+            throw new UserNotFoundException();
         } else {
             user.setPassword(passwordEncoder.encode(password));
             user.setUsername(username);
